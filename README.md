@@ -19,29 +19,52 @@ provide insights into key challenges and future trends, such as
 closed-loop driving systems, interpretability, embodied driving
 agents, and world models.
 
-**Authour list:** Sheng Luo, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen,
+**Authors:** Sheng Luo, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen,
 Ruiqi Wu, Shuyi Geng, Yi Zhou*, Ling Shao, Yi Yang, Bojun Gao, Qun Li and Guobin Wu
-## 💥News
-- [2024.02.05] Our survey is available at [hear](https://arxiv.org/pdf/2402.02968.pdf).
 
-
+![At a glance of our survey](/assets/at_a_glance.pdf)
 
 ## 📖Table of Contents
-- Overview of our survey
-- Common Practices on Visual Understanding Models
-- Advanced Visual Understanding Foundation Models (From Learning paradigm Perspectives)
-- Datasets
-- Challenges & Trends
+- [News](#💥news)
+- [Roadmap](#roadmap) 
+- [Paper Collection](#paper-collection)
+- [Acknowledgement & Citation](#acknowledgement--citation)
 
-## Overview of our survey
 
-## Common Practices
+## 💥News
+- [2024.02.05] Our survey is available at [hear](https://arxiv.org/abs/2402.02968).
 
-## Advanced Foundation Models 
+## Roadmap
 
-## Datasets
+![Roadmap](/assets/roadmap.pdf)
 
-## Challenges & Trends
+## 📚Paper Collection
+- [Related Surveys](#papers.md#related-surveys)
+- [Task-specific Models](#paper.md#task-specific-models)
+  - [From instance-level perception to global-level understanding](#paper.md#from-instance-level-perception-to-global-level-understanding)
+  - [From closed-set condition to open-set condition](#paper.md#from-closed-set-condition-to-open-set-condition)
+  - [From single modality to multi-modalities](#paper.md#from-single-modality-to-multiple-modalities)
+- [Unified Multi-task Models](#paper.md#unified-multi-task-models)
+  - [Task-specific outputs](#paper.md#task-specific-outputs)
+  - [Unified language outputs](#paper.md#unified-language-outputs)
+- [Unified Multi-modal Models](#paper.md#unified-multi-modal-models)
+  - [LLM functions as sequence modeling](#paper.md#LLM-functions-as-sequence-modeling)
+  - [Cross-modal interaction in VLM](#paper.md#Cross-modal-interaction-in-VLM)
+- [Prompting Foundation Models](#paper.md#prompting-foundation-models)
+  - [Textual prompt](#paper.md#textual-prompt)
+  - [Visual prompt](#paper.md#visual-prompt)
+  - [Multi-step prompt](#paper.md#multi-step-prompt)
+  - [Task-specific prompt](#paper.md#task-specific-prompt)
+  - [Prompt pool](#paper.md#prompt-pool)
+- [Towards Open-world Understanding](#paper.md#towards-open-world-understanding)
+- [Efficient Transfer for Road Scenes](#paper.md#efficient-transfer-for-road-scenes)
+- [Continual Learning](#paper.md#continual-learning)
+- [Learn to Interact](#paper.md#learn-to-interact)
+- [Generative Foundation Models](#paper.md#generative-foundation-models)
+- [Closed-loop Driving Systems](#paper.md#closed-loop-driving-systems)
+- [Interpretability](#paper.md#interpretability)
+- [Embodied Driving Agent](#paper.md#embodied-driving-agent)
+- [World Model](#paper.md#world-model)
 
 
 ## 💗Acknowledgement & Citation
