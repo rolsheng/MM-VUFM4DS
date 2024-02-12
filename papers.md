@@ -98,25 +98,71 @@
 ## Towards Open-world Understanding
 
 #### Label Shift
+- [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150)
+- [Semantic Anomaly Detection with Large Language Models](https://arxiv.org/abs/2305.11307)
+- [TrafficSim: Learning to Simulate Realistic Multi-Agent Behaviors](https://arxiv.org/abs/2101.06557)
+- [KING: Generating Safety-Critical Driving Scenarios for Robust Imitation via Kinematics Gradients](https://arxiv.org/abs/2204.13683)
 
 #### Domain Shift
+- [Dolphins: Multimodal Language Model for Driving](https://arxiv.org/abs/2312.00438)
+- [Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models](https://arxiv.org/abs/2310.17642)
+- [On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving](https://arxiv.org/abs/2311.05332)
 
 ## Efficient Transfer for Road Scenes
 
 #### Knowledge Distillation
-
+- [LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization](https://arxiv.org/abs/2312.16648)
+- [LidarCLIP or: How I Learned to Talk to Point Clouds](https://arxiv.org/abs/2212.06858)
+- [CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://arxiv.org/abs/2301.04926)
+- [VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking](https://arxiv.org/abs/2303.11301)
+- [RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM](https://arxiv.org/abs/2401.03907)
+- [Learning to Adapt SAM for Segmenting Cross-domain Point Clouds](https://arxiv.org/abs/2310.08820)
+- [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245)
 #### Instant Learning
+- [Dolphins: Multimodal Language Model for Driving](https://arxiv.org/abs/2312.00438)
+- [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150)
 
 ## Continual Learning
-
 #### Rehearsal-based methods
-
+- [Brain-inspired domain-incremental adaptive detection for autonomous driving](https://www.frontiersin.org/articles/10.3389/fnbot.2022.916808/full)
+- [An Efficient Domain-Incremental Learning Approach to Drive in All Weather Conditions](https://arxiv.org/abs/2204.08817)
 #### Architecture-based methods
+- [Actively Semi-Supervised Deep Rule-based Classifier Applied to Adverse Driving Scenarios](https://ieeexplore.ieee.org/document/8851842)
+#### LLMs as knowledge base
+- [Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2309.10228)
+- [Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2310.08034)
+- [DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models](https://arxiv.org/abs/2309.16292)
+- [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)
+- [Empowering Autonomous Driving with Large Language Models: A Safety Perspective](https://arxiv.org/abs/2312.00812)
+
 
 ## Learn to Interact
+#### Interaction with human.
+- [DRIVEGPT4: INTERPRETABLE END-TO-END AUTONOMOUS DRIVING VIA LARGE LANGUAGE MODEL](https://arxiv.org/abs/2310.01412)
+- [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)
+- [DRAMA: Joint Risk Localization and Captioning in Driving](https://arxiv.org/abs/2209.10767)
+- [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/abs/2302.00673)
+#### Error recovery
+- [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)
+- [Dolphins: Multimodal Language Model for Driving](https://arxiv.org/abs/2312.00438)
 
+#### Adaptive driving behavior
+- [In-vehicle Sensing and Data Analysis for Older Drivers with Mild Cognitive Impairment](https://arxiv.org/abs/2311.09273)
+- [Situational driving anger, driving performance and allocation of visual attention](https://www.researchgate.net/profile/Yutao-Ba/publication/309475593_Situational_driving_anger_driving_performance_and_allocation_of_visual_attention/links/5bf53c8ca6fdcc3a8de66552/Situational-driving-anger-driving-performance-and-allocation-of-visual-attention.pdf)
+- [CPSOR-GCN: A Vehicle Trajectory Prediction Method Powered by Emotion and Cognitive Theory](https://arxiv.org/abs/2311.08086)
 ## Generative Foundation Models
+#### Image representation
+- [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)
+- [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777)
+- [MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations](https://arxiv.org/abs/2311.11762)
+- [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549)
+- [TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction](https://arxiv.org/abs/2303.04116)
+- [ReCoRe: Regularized Contrastive Representation Learning of World Model](https://arxiv.org/abs/2312.09056)
+- [UniWorld: Autonomous Driving Pre-training via World Models](https://arxiv.org/abs/2308.07234)
+- [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999)
 
+#### Occupancy representation
+- [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)
 ## Closed-loop Driving Systems
 
 ## Interpretability
