@@ -22,21 +22,28 @@ agents, and world models.
 **Authors:** Sheng Luo, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen,
 Ruiqi Wu, Shuyi Geng, Yi Zhou*, Ling Shao, Yi Yang, Bojun Gao, Qun Li and Guobin Wu
 
-![At a glance of our survey](/assets/at_a_glance.pdf)
-
 ## 📖Table of Contents
-- [News](#💥news)
+- [Overview](#overview)
+- [News](#news)
 - [Roadmap](#roadmap) 
 - [Paper Collection](#paper-collection)
 - [Acknowledgement & Citation](#acknowledgement--citation)
 
+## 😋Overview
+This is an overview of our survey as below where we delve into MM-VUFMs from required prerequisites, currently common practices, advanced foundation models from diverse learning paradigms, key challenges and future trends.
+![Overview of our survey](./assets/at_a_glance.png)
 
+We also systematicaly review currently common practices of visual understanding on road scenes from task-specific models, unified multi-task models, unified multi-modal models and prompting foundation models, respectively.
+![Overview of common practices](./assets/common_practices.png)
+
+Moreover, advanced capabilities on diverse learning paradigms are highlighted as below, involving open-world understanding, efficient transfer for road scenes, continual learning, learn to interact and generative foundation models, respectively.
+![Overview of advance foundation models](./assets/advanced_models.png)
 ## 💥News
 - [2024.02.05] Our survey is available at [hear](https://arxiv.org/abs/2402.02968).
 
-## Roadmap
+## 🗺️Roadmap
 
-![Roadmap](/assets/roadmap.pdf)
+![Roadmap](./assets/roadmap.png)
 
 ## 📚Paper Collection
 - [Related Surveys](./papers.md#related-surveys)
