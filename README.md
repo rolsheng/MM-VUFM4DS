@@ -77,13 +77,12 @@ Moreover, advanced capabilities on diverse learning paradigms are highlighted as
 ## 💗Acknowledgement & Citation
 This work was supported by DiDi GAIA Research Cooperation Initiative. If you find this work useful, please consider cite:
 ```
-@misc{luo2024delving,
-      title={Delving into Multi-modal Multi-task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives}, 
-      author={Sheng Luo and Wei Chen and Wanxin Tian and Rui Liu and Luanxuan Hou and Xiubao Zhang and Haifeng Shen and Ruiqi Wu and Shuyi Geng and Yi Zhou and Ling Shao and Yi Yang and Bojun Gao and Qun Li and Guobin Wu},
-      year={2024},
-      eprint={2402.02968},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{luo2024delving,
+  title={Delving into Multi-modal Multi-task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives},
+  author={Luo, Sheng and Chen, Wei and Tian, Wanxin and Liu, Rui and Hou, Luanxuan and Zhang, Xiubao and Shen, Haifeng and Wu, Ruiqi and Geng, Shuyi and Zhou, Yi and others},
+  journal={arXiv preprint arXiv:2402.02968},
+  year={2024}
+}
 }
 ```
 
