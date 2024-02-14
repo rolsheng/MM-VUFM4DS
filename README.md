@@ -20,7 +20,7 @@ closed-loop driving systems, interpretability, embodied driving
 agents, and world models.
 
 **Authors:** Sheng Luo, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen,
-Ruiqi Wu, Shuyi Geng, Yi Zhou*, Ling Shao, Yi Yang, Bojun Gao, Qun Li and Guobin Wu
+Ruiqi Wu, Shuyi Geng, Yi Zhou, Ling Shao, Yi Yang, Bojun Gao, Qun Li and Guobin Wu
 
 ## 📖Table of Contents
 - [Overview](#overview)
