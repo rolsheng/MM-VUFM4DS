@@ -83,7 +83,6 @@ This work was supported by DiDi GAIA Research Cooperation Initiative. If you fin
   journal={arXiv preprint arXiv:2402.02968},
   year={2024}
 }
-}
 ```
 
 
