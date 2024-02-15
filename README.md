@@ -19,7 +19,7 @@ provide insights into key challenges and future trends, such as
 closed-loop driving systems, interpretability, embodied driving
 agents, and world models.
 
-**Authors:** Sheng Luo, Wei Chen, Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen,
+**Authors:** [Sheng Luo](https://github.com/rolsheng), [Wei Chen](https://github.com/PixelChen24), Wanxin Tian, Rui Liu, Luanxuan Hou, Xiubao Zhang, Haifeng Shen,
 Ruiqi Wu, Shuyi Geng, Yi Zhou, Ling Shao, Yi Yang, Bojun Gao, Qun Li and Guobin Wu
 
 ## 📖Table of Contents
