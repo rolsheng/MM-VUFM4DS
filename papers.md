@@ -164,12 +164,35 @@
 #### Occupancy representation
 - [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)
 ## Closed-loop Driving Systems
+- [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)
+- [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245)
 
 ## Interpretability
+- [HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/abs/2309.05186)
+- [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/abs/2302.00673)
+- [DRAMA: Joint Risk Localization and Captioning in Driving](https://arxiv.org/abs/2209.10767)
+
+- [Multi-task Learning with Attention for End-to-end Autonomous Driving](https://arxiv.org/abs/2104.10753)
+- [TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://arxiv.org/abs/2205.15997)
+
+- [Explaining Autonomous Driving Actions with Visual Question Answering](https://arxiv.org/abs/2307.10408)
+- [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150)
+- [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)
+- [Hidden Biases of End-to-End Driving Models](https://arxiv.org/abs/2306.07957)
+
 
 ## Embodied Driving Agent
+- [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)
+- [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817)
+- [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818)
+- [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864v4)
 
 ## World Model
+- [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)
+- [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777)
+- [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
+
+
 
 
 
