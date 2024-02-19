@@ -63,6 +63,7 @@ Moreover, advanced capabilities on diverse learning paradigms are highlighted as
   - [Multi-step prompt](./papers.md#multi-step-prompt)
   - [Task-specific prompt](./papers.md#task-specific-prompt)
   - [Prompt pool](./papers.md#prompt-pool)
+- [Related Datasets](./papers.md#datasets)
 - [Towards Open-world Understanding](./papers.md#towards-open-world-understanding)
 - [Efficient Transfer for Road Scenes](./papers.md#efficient-transfer-for-road-scenes)
 - [Continual Learning](./papers.md#continual-learning)

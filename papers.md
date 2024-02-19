@@ -95,6 +95,23 @@
 - [DRIVEGPT4: INTERPRETABLE END-TO-END AUTONOMOUS DRIVING VIA LARGE LANGUAGE MODEL](https://arxiv.org/abs/2310.01412)
 #### Prompt Pool
 - [I3DOD: Towards Incremental 3D Object Detection via Prompting](https://arxiv.org/abs/2308.12512)
+
+## Datasets
+- [Lampilot: An open benchmark dataset for autonomous driving with language model programs](https://arxiv.org/abs/2312.04372)
+- [Drivelm: Driving with graph visual question answering](https://arxiv.org/abs/2312.14150)
+- [Drivegpt4: Interpretable end-to-end autonomous driving via large language model](https://arxiv.org/abs/2310.01412)
+- [Talk2bev: Language-enhanced bird's-eye view maps for autonomous driving](https://arxiv.org/abs/2310.02251)
+- [Rank2tell: A multimodal driving dataset for joint importance ranking and reasoning](https://arxiv.org/abs/2309.06597)
+- [Language prompt for autonomous driving](https://arxiv.org/abs/2309.04379)
+- [Nuscenes-qa: A multi-modal visual question answering benchmark for autonomous driving scenario](https://arxiv.org/abs/2305.14836)
+- [Drivemlm: Aligning multi-modal large language models with behavioral planning states for autonomous driving](https://arxiv.org/abs/2312.09245)
+- [Lmdrive: Closed-loop end-to-end driving with large language models](https://arxiv.org/abs/2312.07488)
+- [Reason2drive: Towards interpretable and chain-based reasoning for autonomous driving](https://arxiv.org/abs/2312.03661)
+- [Driving with llms: Fusing object-level vector modality for explainable autonomous driving](https://arxiv.org/abs/2310.01957)
+- [Referring multi-object tracking](https://arxiv.org/abs/2303.03366)
+- [NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations](https://arxiv.org/abs/2312.06352)
+- [Lidar-llm: Exploring the potential of large language models for 3d lidar understanding](https://arxiv.org/abs/2312.14074)
+- [Drama: Joint risk localization and captioning in driving](https://arxiv.org/abs/2209.10767)
 ## Towards Open-world Understanding
 
 #### Label Shift
