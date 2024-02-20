@@ -71,6 +71,7 @@ Moreover, advanced capabilities on diverse learning paradigms are highlighted as
 - [Generative Foundation Models](./papers.md#generative-foundation-models)
 - [Closed-loop Driving Systems](./papers.md#closed-loop-driving-systems)
 - [Interpretability](./papers.md#interpretability)
+- [Low-resource Condition](./papers.md#low-resource-condition)
 - [Embodied Driving Agent](./papers.md#embodied-driving-agent)
 - [World Model](./papers.md#world-model)
 

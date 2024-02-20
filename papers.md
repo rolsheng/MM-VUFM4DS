@@ -169,6 +169,8 @@
 - [CPSOR-GCN: A Vehicle Trajectory Prediction Method Powered by Emotion and Cognitive Theory](https://arxiv.org/abs/2311.08086)
 ## Generative Foundation Models
 #### Image representation
+- [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
+- [GenAD: Generative End-to-End Autonomous Driving](https://arxiv.org/abs/2402.11502)
 - [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)
 - [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777)
 - [MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations](https://arxiv.org/abs/2311.11762)
@@ -196,6 +198,24 @@
 - [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150)
 - [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)
 - [Hidden Biases of End-to-End Driving Models](https://arxiv.org/abs/2306.07957)
+
+## Low-resource Condition
+
+- [Quantized convolutional neural networks through the lens of partial differential equations](https://arxiv.org/abs/2109.00095)
+- [Training a Binary Weight Object Detector by Knowledge Transfer for Autonomous Driving](https://arxiv.org/abs/1804.06332)
+- [DeepPicar: A Low-cost Deep Neural Network-based Autonomous Car](https://arxiv.org/abs/1712.08644)
+- [Robust and efficient post-processing for video object detection](https://arxiv.org/abs/2009.11050)
+- [Edge YOLO: Real-Time Intelligent Object Detection System Based on Edge-Cloud Cooperation in Autonomous Vehicles](https://arxiv.org/abs/2205.14942)
+- [ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation](https://arxiv.org/abs/2309.05527)
+- [Generalized Few-Shot 3D Object Detection of LiDAR Point Cloud for Autonomous Driving](https://arxiv.org/abs/2302.03914)
+- [Few-shot 3D LiDAR Semantic Segmentation for Autonomous Driving](https://arxiv.org/abs/2302.08785)
+- [Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models](https://arxiv.org/abs/2312.13763)
+- [S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation](https://arxiv.org/abs/2402.02112)
+- [Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following](https://arxiv.org/abs/2402.06559)
+- [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/abs/2402.05746)
+- [NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields](https://arxiv.org/abs/2304.14811)
+- [MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving](https://arxiv.org/abs/2307.15058)
+- [DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/abs/2312.07920)
 
 
 ## Embodied Driving Agent
