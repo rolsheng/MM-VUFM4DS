@@ -35,6 +35,7 @@
 ## Unified Multi-task Models
 
 #### Task-specific Outputs
+- [Efficient Multi-task Uncertainties for Joint Semantic Segmentation and Monocular Depth Estimation](https://arxiv.org/abs/2402.10580)
 - [Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving](https://arxiv.org/abs/2303.01788)
 - [You only look at once for real-time and generic multi-task](https://arxiv.org/abs/2310.01641)
 - [CML-MOTS: Collaborative Multi-task Learning for Multi-Object Tracking and Segmentation](https://arxiv.org/abs/2311.00987)
@@ -59,7 +60,9 @@
 - [DRIVEGPT4: INTERPRETABLE END-TO-END AUTONOMOUS DRIVING VIA LARGE LANGUAGE MODEL](https://arxiv.org/abs/2310.01412)
 - [GPT-Driver: Learning to Drive with GPT](https://arxiv.org/abs/2310.01415)
 - [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245)
+
 #### Cross-modal Interaction in VLM
+- [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/abs/2402.12289)
 - [Language Prompt for Autonomous Driving](https://arxiv.org/abs/2309.04379)
 - [Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving](https://arxiv.org/abs/2310.02251)
 - [Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models](https://arxiv.org/abs/2310.17642)
@@ -164,6 +167,7 @@
 - [Dolphins: Multimodal Language Model for Driving](https://arxiv.org/abs/2312.00438)
 
 #### Adaptive driving behavior
+- [Learning to Model Diverse Driving Behaviors in Highly Interactive Autonomous Driving Scenarios with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2402.13481)
 - [In-vehicle Sensing and Data Analysis for Older Drivers with Mild Cognitive Impairment](https://arxiv.org/abs/2311.09273)
 - [Situational driving anger, driving performance and allocation of visual attention](https://www.researchgate.net/profile/Yutao-Ba/publication/309475593_Situational_driving_anger_driving_performance_and_allocation_of_visual_attention/links/5bf53c8ca6fdcc3a8de66552/Situational-driving-anger-driving-performance-and-allocation-of-visual-attention.pdf)
 - [CPSOR-GCN: A Vehicle Trajectory Prediction Method Powered by Emotion and Cognitive Theory](https://arxiv.org/abs/2311.08086)
@@ -187,6 +191,7 @@
 - [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245)
 
 ## Interpretability
+- [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828)
 - [HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/abs/2309.05186)
 - [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/abs/2302.00673)
 - [DRAMA: Joint Risk Localization and Captioning in Driving](https://arxiv.org/abs/2209.10767)
@@ -225,6 +230,7 @@
 - [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864v4)
 
 ## World Model
+- [World Model on Million-Length Video And Language With RingAttention](https://arxiv.org/abs/2402.08268)
 - [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)
 - [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777)
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
