@@ -173,6 +173,7 @@
 - [CPSOR-GCN: A Vehicle Trajectory Prediction Method Powered by Emotion and Cognitive Theory](https://arxiv.org/abs/2311.08086)
 ## Generative Foundation Models
 #### Image representation
+- [Text2Street: Controllable Text-to-image Generation for Street Views](https://arxiv.org/abs/2402.04504)
 - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 - [GenAD: Generative End-to-End Autonomous Driving](https://arxiv.org/abs/2402.11502)
 - [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)
@@ -230,10 +231,13 @@
 - [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864v4)
 
 ## World Model
+- [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918)
+- [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
 - [World Model on Million-Length Video And Language With RingAttention](https://arxiv.org/abs/2402.08268)
 - [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)
 - [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777)
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
+- [Others](#generative-foundation-models)
 
 
 
