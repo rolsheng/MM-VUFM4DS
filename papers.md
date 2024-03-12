@@ -225,6 +225,7 @@
 
 
 ## Embodied Driving Agent
+- [Embodied Understanding of Driving Scenarios](https://arxiv.org/abs/2403.04593)
 - [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)
 - [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817)
 - [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818)
