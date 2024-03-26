@@ -35,6 +35,10 @@
 ## Unified Multi-task Models
 
 #### Task-specific Outputs
+- [Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator](https://arxiv.org/abs/2403.03468)
+- [S3M-Net: Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving](https://arxiv.org/abs/2401.11414)
+- [Scalable Vision-Based 3D Object Detection and Monocular Depth Estimation for Autonomous Driving](https://arxiv.org/abs/2403.02037)
+- [Think Twice before Driving: Towards Scalable Decoders for End-to-End Autonomous Driving](https://arxiv.org/abs/2305.06242)
 - [Efficient Multi-task Uncertainties for Joint Semantic Segmentation and Monocular Depth Estimation](https://arxiv.org/abs/2402.10580)
 - [Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving](https://arxiv.org/abs/2303.01788)
 - [You only look at once for real-time and generic multi-task](https://arxiv.org/abs/2310.01641)
@@ -131,6 +135,7 @@
 ## Efficient Transfer for Road Scenes
 
 #### Knowledge Distillation
+- [LIX: Implicitly Infusing Spatial Geometric Prior Knowledge into Visual Semantic Segmentation for Autonomous Driving](https://arxiv.org/abs/2403.08215)
 - [LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization](https://arxiv.org/abs/2312.16648)
 - [LidarCLIP or: How I Learned to Talk to Point Clouds](https://arxiv.org/abs/2212.06858)
 - [CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://arxiv.org/abs/2301.04926)
@@ -186,6 +191,7 @@
 - [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999)
 
 #### Occupancy representation
+- [OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction](https://arxiv.org/abs/2403.01644)
 - [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038)
 ## Closed-loop Driving Systems
 - [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)
@@ -232,6 +238,9 @@
 - [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864v4)
 
 ## World Model
+- [Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)](https://arxiv.org/abs/2402.16720)
+- [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845)
+- [World Models for Autonomous Driving: An Initial Survey](https://arxiv.org/abs/2403.02622)
 - [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918)
 - [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
 - [World Model on Million-Length Video And Language With RingAttention](https://arxiv.org/abs/2402.08268)
