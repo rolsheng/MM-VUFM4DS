@@ -1,4 +1,5 @@
 ## Related Surveys
+- [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/2405.03520)
 - [A survey for foundation models in autonomous driving](https://arxiv.org/abs/2402.01105)
 - [Applications of Large Scale Foundation Models for Autonomous Driving](https://arxiv.org/abs/2311.12144)
 - [Forging vision foundation models for autonomous driving: Challenges, methodologies, and opportunities](https://arxiv.org/abs/2401.08045)
@@ -16,12 +17,15 @@
 - [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279)
 - [Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction](https://arxiv.org/abs/2207.09953)
 #### From Closed-set Condition to Open-set Condition
+- [SAFDNet: A Simple and Effective Network for Fully Sparse 3D Object Detection](https://arxiv.org/abs/2403.05817)
+- [OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation](https://arxiv.org/abs/2403.19580)
 - [Exploring the Potential of World Models for Anomaly Detection in Autonomous Driving](https://arxiv.org/abs/2308.05701)
 - [OVTrack: Open-Vocabulary Multiple Object Tracking](https://arxiv.org/abs/2304.08408)
 - [SalienDet: A Saliency-based Feature Enhancement Algorithm for Object Detection for Autonomous Driving](https://arxiv.org/abs/2305.06940)
 - [CODA: A Real-World Road Corner Case Dataset for Object Detection in Autonomous Driving](https://arxiv.org/abs/2203.07724)
 - [Using Control Synthesis to Generate Corner Cases: A Case Study on Autonomous Driving](https://arxiv.org/abs/1807.09537)
 #### From Single Modality to Multiple Modalities
+- [UniPAD: A Universal Pre-training Paradigm for Autonomous Driving](https://arxiv.org/abs/2310.08370)
 - [CalibFormer: A Transformer-based Automatic LiDAR-Camera Calibration Network](https://arxiv.org/abs/2311.15241)
 - [Revisiting Multi-modal 3D Semantic Segmentation in Real-world Autonomous Driving](https://arxiv.org/abs/2310.08826)
 - [SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields](https://arxiv.org/abs/2311.15803)
@@ -35,6 +39,7 @@
 ## Unified Multi-task Models
 
 #### Task-specific Outputs
+- [DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/abs/2405.04390)
 - [Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator](https://arxiv.org/abs/2403.03468)
 - [S3M-Net: Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving](https://arxiv.org/abs/2401.11414)
 - [Scalable Vision-Based 3D Object Detection and Monocular Depth Estimation for Autonomous Driving](https://arxiv.org/abs/2403.02037)
@@ -55,6 +60,7 @@
 ## Unified Multi-modal Models
 
 #### LLM Functions as Sequence Modeling
+- [OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning](https://arxiv.org/abs/2405.01533)
 - [A Language Agent for Autonomous Driving](https://arxiv.org/abs/2311.10813)
 - [Empowering Autonomous Driving with Large Language Models: A Safety Perspective](https://arxiv.org/abs/2312.00812)
 - [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)
@@ -66,6 +72,7 @@
 - [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245)
 
 #### Cross-modal Interaction in VLM
+- [LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving](https://arxiv.org/abs/2403.20116)
 - [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/abs/2402.12289)
 - [Language Prompt for Autonomous Driving](https://arxiv.org/abs/2309.04379)
 - [Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving](https://arxiv.org/abs/2310.02251)
@@ -238,6 +245,7 @@
 - [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864v4)
 
 ## World Model
+- [UniGen: Unified Modeling of Initial Agent States and Trajectories for Generating Autonomous Driving Scenarios](https://arxiv.org/abs/2405.03807)
 - [Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)](https://arxiv.org/abs/2402.16720)
 - [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845)
 - [World Models for Autonomous Driving: An Initial Survey](https://arxiv.org/abs/2403.02622)

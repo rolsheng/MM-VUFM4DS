@@ -39,6 +39,7 @@ We also systematicaly review currently common practices of visual understanding 
 Moreover, advanced capabilities on diverse learning paradigms are highlighted as below, involving open-world understanding, efficient transfer for road scenes, continual learning, learn to interact and generative foundation models, respectively.
 ![Overview of advance foundation models](./assets/advanced_models.png)
 ## 💥News
+- [2024.05.26] Our survey is accepted to IEEE Transactions on Intelligent Vehicles (T-IV).
 - [2024.02.05] Our survey is available at [hear](https://arxiv.org/abs/2402.02968).
 
 ## 🗺️Roadmap
